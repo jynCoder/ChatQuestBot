@@ -2,8 +2,6 @@
 node_modules/
 
 # Frontend (React)
-leaderboard-frontend/node_modules/
-leaderboard-frontend/build/
 leaderboard-frontend/.env.* 
 leaderboard-frontend/*.log
 
